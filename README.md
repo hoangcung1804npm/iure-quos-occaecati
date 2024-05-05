@@ -1,3 +1,9 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+[![Test and build application](https://github.com/hoangcung1804npm/iure-quos-occaecati/actions/workflows/build.yaml/badge.svg)](https://github.com/hoangcung1804npm/iure-quos-occaecati/actions/workflows/build.yaml)
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+
+# @hoangcung1804npm/iure-quos-occaecati
+
+A tiny package that accepts and updates the .env or .env.local file
+
+
+Credits: https://github.com/bkeepers/update-dotenv
